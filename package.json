@@ -7,6 +7,10 @@
     "name": "Victor Dahmen",
     "email": "victor.dahmen@yahoo.se"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Comprime/edge-adodb.git"
+  },
   "dependencies": {
     "edge": "^7.10.1"
   }
