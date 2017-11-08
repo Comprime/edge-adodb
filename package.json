@@ -1,0 +1,13 @@
+{
+  "name": "edge-adodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Victor Dahmen",
+    "email": "victor.dahmen@yahoo.se"
+  },
+  "dependencies": {
+    "edge": "^7.10.1"
+  }
+}

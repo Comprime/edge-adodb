@@ -1,0 +1,5 @@
+.npmignore
+yarn.lock
+node_modules
+.gitignore
+edge_adodb/obj
